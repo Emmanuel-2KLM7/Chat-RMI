@@ -1,2 +1,2 @@
 # Chat-RMI
-ce projet est un chat entre deux machine fait en java avec l'interface de programmation RMI(Remote methode Invocation)
+this project is a chat between two machines made in java with the RMI programming interface (Remote method Invocation)
